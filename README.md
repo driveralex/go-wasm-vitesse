@@ -4,7 +4,7 @@ I'm trying to use wasm written in go with vitesse ().
 
 ## Go -> wasm
 
-You will find go files under src/go
+You will find go files under /go
 
 ## Vitesse Usage
 
